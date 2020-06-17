@@ -1,0 +1,1117 @@
+Settima 1
+Ven 	 9:00 - 10:00 	 Presentazione master 
+						 Docente: presentatore
+
+Ven 	 10:00 - 11:00 	 Presentazione master 
+						 Docente: presentatore
+
+Ven 	 11:00 - 12:00 	 Project management 
+						 Docente: muzzetto
+
+Ven 	 12:00 - 13:00 	 Elementi di fotografia digitale 
+						 Docente: vargiu
+
+Ven 	 14:00 - 15:00 	 Project management 
+						 Docente: muzzetto
+
+Ven 	 15:00 - 16:00 	 Elementi di fotografia digitale 
+						 Docente: vargiu
+
+Ven 	 17:00 - 18:00 	 Project management 
+						 Docente: muzzetto
+
+Sab 	 9:00 - 10:00 	 I vincoli giuridici del progetto diritto dei media 
+						 Docente: travostino
+
+Sab 	 10:00 - 11:00 	 Project management 
+						 Docente: muzzetto
+
+Sab 	 12:00 - 13:00 	 I vincoli giuridici del progetto diritto dei media 
+						 Docente: travostino
+
+Sab 	 14:00 - 15:00 	 Project management 
+						 Docente: muzzetto
+
+Settima 2
+Ven 	 9:00 - 10:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Ven 	 10:00 - 11:00 	 Elementi di fotografia digitale 
+						 Docente: vargiu
+
+Ven 	 11:00 - 12:00 	 Project management 
+						 Docente: muzzetto
+
+Ven 	 12:00 - 13:00 	 Elementi di fotografia digitale 
+						 Docente: vargiu
+
+Ven 	 14:00 - 15:00 	 Project management 
+						 Docente: muzzetto
+
+Ven 	 15:00 - 16:00 	 Project management 
+						 Docente: muzzetto
+
+Ven 	 17:00 - 18:00 	 Project management 
+						 Docente: muzzetto
+
+Ven 	 18:00 - 19:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Sab 	 9:00 - 10:00 	 Elementi di fotografia digitale 
+						 Docente: vargiu
+
+Sab 	 10:00 - 11:00 	 Project management 
+						 Docente: muzzetto
+
+Sab 	 11:00 - 12:00 	 Project management 
+						 Docente: muzzetto
+
+Sab 	 12:00 - 13:00 	 Project management 
+						 Docente: muzzetto
+
+Sab 	 14:00 - 15:00 	 Elementi di fotografia digitale 
+						 Docente: vargiu
+
+Settima 3
+Ven 	 9:00 - 10:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Ven 	 10:00 - 11:00 	 I vincoli giuridici del progetto diritto dei media 
+						 Docente: travostino
+
+Ven 	 11:00 - 12:00 	 Project management 
+						 Docente: muzzetto
+
+Ven 	 12:00 - 13:00 	 I vincoli giuridici del progetto diritto dei media 
+						 Docente: travostino
+
+Ven 	 15:00 - 16:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Ven 	 17:00 - 18:00 	 Project management 
+						 Docente: muzzetto
+
+Ven 	 18:00 - 19:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Sab 	 9:00 - 10:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Sab 	 10:00 - 11:00 	 I vincoli giuridici del progetto diritto dei media 
+						 Docente: travostino
+
+Sab 	 11:00 - 12:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Sab 	 12:00 - 13:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Sab 	 14:00 - 15:00 	 I vincoli giuridici del progetto diritto dei media 
+						 Docente: travostino
+
+Settima 4
+Ven 	 9:00 - 10:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Ven 	 10:00 - 11:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Ven 	 11:00 - 12:00 	 Marketing digitale 
+						 Docente: muzzetto
+
+Ven 	 14:00 - 15:00 	 Marketing digitale 
+						 Docente: muzzetto
+
+Ven 	 15:00 - 16:00 	 Marketing digitale 
+						 Docente: muzzetto
+
+Ven 	 17:00 - 18:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Ven 	 18:00 - 19:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Sab 	 9:00 - 10:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Sab 	 10:00 - 11:00 	 Marketing digitale 
+						 Docente: muzzetto
+
+Sab 	 11:00 - 12:00 	 Marketing digitale 
+						 Docente: muzzetto
+
+Sab 	 12:00 - 13:00 	 Marketing digitale 
+						 Docente: muzzetto
+
+Sab 	 14:00 - 15:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Settima 5
+Ven 	 9:00 - 10:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Ven 	 10:00 - 11:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Ven 	 11:00 - 12:00 	 Marketing digitale 
+						 Docente: muzzetto
+
+Ven 	 12:00 - 13:00 	 Elementi di fotografia digitale 
+						 Docente: vargiu
+
+Ven 	 14:00 - 15:00 	 Marketing digitale 
+						 Docente: muzzetto
+
+Ven 	 15:00 - 16:00 	 Elementi di fotografia digitale 
+						 Docente: vargiu
+
+Ven 	 17:00 - 18:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Ven 	 18:00 - 19:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Sab 	 9:00 - 10:00 	 Acquisizione ed elaborazione del suono 
+						 Docente: valle
+
+Sab 	 10:00 - 11:00 	 Acquisizione ed elaborazione del suono 
+						 Docente: valle
+
+Sab 	 11:00 - 12:00 	 Marketing digitale 
+						 Docente: muzzetto
+
+Sab 	 12:00 - 13:00 	 Marketing digitale 
+						 Docente: muzzetto
+
+Sab 	 14:00 - 15:00 	 Acquisizione ed elaborazione del suono 
+						 Docente: valle
+
+Settima 6
+Ven 	 9:00 - 10:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Ven 	 10:00 - 11:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Ven 	 11:00 - 12:00 	 Tecniche e strumenti di marketing digitale 
+						 Docente: zanchetta
+
+Ven 	 12:00 - 13:00 	 Acquisizione ed elaborazione del suono 
+						 Docente: valle
+
+Ven 	 14:00 - 15:00 	 Elementi di fotografia digitale 
+						 Docente: vargiu
+
+Ven 	 15:00 - 16:00 	 Elementi di fotografia digitale 
+						 Docente: vargiu
+
+Ven 	 17:00 - 18:00 	 Acquisizione ed elaborazione del suono 
+						 Docente: valle
+
+Ven 	 18:00 - 19:00 	 Tecniche e strumenti di marketing digitale 
+						 Docente: zanchetta
+
+Sab 	 9:00 - 10:00 	 I vincoli giuridici del progetto diritto dei media 
+						 Docente: travostino
+
+Sab 	 11:00 - 12:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Sab 	 12:00 - 13:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Sab 	 14:00 - 15:00 	 I vincoli giuridici del progetto diritto dei media 
+						 Docente: travostino
+
+Settima 7
+Lun 	 9:00 - 10:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Lun 	 10:00 - 11:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Lun 	 11:00 - 12:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Lun 	 12:00 - 13:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Lun 	 14:00 - 15:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Lun 	 15:00 - 16:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Lun 	 17:00 - 18:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Lun 	 18:00 - 19:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Mar 	 10:00 - 11:00 	 La gestione della qualita 
+						 Docente: tomatis
+
+Mar 	 11:00 - 12:00 	 La gestione della qualita 
+						 Docente: tomatis
+
+Mar 	 12:00 - 13:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Mar 	 14:00 - 15:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Mar 	 15:00 - 16:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Mar 	 17:00 - 18:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Mar 	 18:00 - 19:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Mer 	 9:00 - 10:00 	 Tecniche e strumenti di marketing digitale 
+						 Docente: zanchetta
+
+Mer 	 10:00 - 11:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Mer 	 11:00 - 12:00 	 Acquisizione ed elaborazione del suono 
+						 Docente: valle
+
+Mer 	 12:00 - 13:00 	 Acquisizione ed elaborazione del suono 
+						 Docente: valle
+
+Mer 	 14:00 - 15:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Mer 	 15:00 - 16:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Mer 	 17:00 - 18:00 	 Tecniche e strumenti di marketing digitale 
+						 Docente: zanchetta
+
+Mer 	 18:00 - 19:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Gio 	 9:00 - 10:00 	 La gestione della qualita 
+						 Docente: tomatis
+
+Gio 	 10:00 - 11:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Gio 	 11:00 - 12:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Gio 	 12:00 - 13:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Gio 	 14:00 - 15:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Gio 	 15:00 - 16:00 	 La gestione della qualita 
+						 Docente: tomatis
+
+Gio 	 17:00 - 18:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Gio 	 18:00 - 19:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Ven 	 9:00 - 10:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Ven 	 10:00 - 11:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Ven 	 11:00 - 12:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Ven 	 12:00 - 13:00 	 I vincoli giuridici del progetto diritto dei media 
+						 Docente: travostino
+
+Ven 	 14:00 - 15:00 	 I vincoli giuridici del progetto diritto dei media 
+						 Docente: travostino
+
+Ven 	 15:00 - 16:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Ven 	 17:00 - 18:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Ven 	 18:00 - 19:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Sab 	 9:00 - 10:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Sab 	 10:00 - 11:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Sab 	 11:00 - 12:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Sab 	 12:00 - 13:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Sab 	 14:00 - 15:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Settima 8
+Ven 	 9:00 - 10:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Ven 	 10:00 - 11:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Ven 	 11:00 - 12:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Ven 	 12:00 - 13:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Ven 	 14:00 - 15:00 	 La gestione della qualita 
+						 Docente: tomatis
+
+Ven 	 15:00 - 16:00 	 Linguaggi di markup 
+						 Docente: gena
+
+Ven 	 17:00 - 18:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Ven 	 18:00 - 19:00 	 La gestione della qualita 
+						 Docente: tomatis
+
+Sab 	 10:00 - 11:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Sab 	 11:00 - 12:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Sab 	 12:00 - 13:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Settima 9
+Ven 	 9:00 - 10:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Ven 	 10:00 - 11:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Ven 	 11:00 - 12:00 	 Tecniche e strumenti di marketing digitale 
+						 Docente: zanchetta
+
+Ven 	 12:00 - 13:00 	 Tecniche e strumenti di marketing digitale 
+						 Docente: zanchetta
+
+Ven 	 14:00 - 15:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Ven 	 15:00 - 16:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Ven 	 17:00 - 18:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Ven 	 18:00 - 19:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Sab 	 9:00 - 10:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Sab 	 10:00 - 11:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Sab 	 11:00 - 12:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Sab 	 14:00 - 15:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Settima 10
+Ven 	 9:00 - 10:00 	 Tecniche e strumenti di marketing digitale 
+						 Docente: zanchetta
+
+Ven 	 10:00 - 11:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Ven 	 11:00 - 12:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Ven 	 12:00 - 13:00 	 Tecniche e strumenti di marketing digitale 
+						 Docente: zanchetta
+
+Ven 	 14:00 - 15:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Ven 	 15:00 - 16:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Ven 	 17:00 - 18:00 	 Fondamenti di ict e paradigmi di programmazione 
+						 Docente: pozzato
+
+Sab 	 9:00 - 10:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Sab 	 10:00 - 11:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Sab 	 11:00 - 12:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Sab 	 12:00 - 13:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Sab 	 14:00 - 15:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Settima 11
+Ven 	 9:00 - 10:00 	 Recupero 
+						 Docente: none
+
+Ven 	 10:00 - 11:00 	 Acquisizione ed elaborazione del suono 
+						 Docente: valle
+
+Ven 	 11:00 - 12:00 	 Acquisizione ed elaborazione del suono 
+						 Docente: valle
+
+Ven 	 12:00 - 13:00 	 Acquisizione ed elaborazione del suono 
+						 Docente: valle
+
+Ven 	 14:00 - 15:00 	 La gestione della qualita 
+						 Docente: tomatis
+
+Ven 	 15:00 - 16:00 	 Recupero 
+						 Docente: none
+
+Ven 	 17:00 - 18:00 	 La gestione della qualita 
+						 Docente: tomatis
+
+Sab 	 9:00 - 10:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Sab 	 11:00 - 12:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Sab 	 12:00 - 13:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Sab 	 14:00 - 15:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Settima 12
+Ven 	 9:00 - 10:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Ven 	 10:00 - 11:00 	 Recupero 
+						 Docente: none
+
+Ven 	 11:00 - 12:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Ven 	 12:00 - 13:00 	 Tecniche e strumenti di marketing digitale 
+						 Docente: zanchetta
+
+Ven 	 14:00 - 15:00 	 La gestione della qualita 
+						 Docente: tomatis
+
+Ven 	 15:00 - 16:00 	 Recupero 
+						 Docente: none
+
+Ven 	 17:00 - 18:00 	 La gestione della qualita 
+						 Docente: tomatis
+
+Ven 	 18:00 - 19:00 	 Tecniche e strumenti di marketing digitale 
+						 Docente: zanchetta
+
+Sab 	 9:00 - 10:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Sab 	 10:00 - 11:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Sab 	 11:00 - 12:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Sab 	 12:00 - 13:00 	 Progettazione di basi di dati 
+						 Docente: mazzei
+
+Sab 	 14:00 - 15:00 	 Introduzione al social media management 
+						 Docente: suppini
+
+Settima 13
+Ven 	 9:00 - 10:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Ven 	 10:00 - 11:00 	 Risorse digitali per il progetto collaborazione e documentazione 
+						 Docente: boniolo
+
+Ven 	 11:00 - 12:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Ven 	 12:00 - 13:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Ven 	 15:00 - 16:00 	 Risorse digitali per il progetto collaborazione e documentazione 
+						 Docente: boniolo
+
+Ven 	 17:00 - 18:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Ven 	 18:00 - 19:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Sab 	 9:00 - 10:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Sab 	 10:00 - 11:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Sab 	 11:00 - 12:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Sab 	 12:00 - 13:00 	 Accessibilita e usabilita nella progettazione multimediale 
+						 Docente: gena
+
+Sab 	 14:00 - 15:00 	 Crossmedia articolazione delle scritture multimediali 
+						 Docente: taddeo
+
+Settima 14
+Ven 	 10:00 - 11:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Ven 	 12:00 - 13:00 	 Semiologia e multimedialita 
+						 Docente: santangelo
+
+Ven 	 15:00 - 16:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Ven 	 17:00 - 18:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Ven 	 18:00 - 19:00 	 Semiologia e multimedialita 
+						 Docente: santangelo
+
+Sab 	 9:00 - 10:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Sab 	 10:00 - 11:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Sab 	 11:00 - 12:00 	 Risorse digitali per il progetto collaborazione e documentazione 
+						 Docente: boniolo
+
+Sab 	 12:00 - 13:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Sab 	 14:00 - 15:00 	 Risorse digitali per il progetto collaborazione e documentazione 
+						 Docente: boniolo
+
+Settima 15
+Ven 	 9:00 - 10:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Ven 	 10:00 - 11:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Ven 	 11:00 - 12:00 	 Risorse digitali per il progetto collaborazione e documentazione 
+						 Docente: boniolo
+
+Ven 	 12:00 - 13:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Ven 	 14:00 - 15:00 	 Risorse digitali per il progetto collaborazione e documentazione 
+						 Docente: boniolo
+
+Ven 	 15:00 - 16:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Ven 	 17:00 - 18:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Ven 	 18:00 - 19:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Sab 	 9:00 - 10:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Sab 	 10:00 - 11:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Sab 	 11:00 - 12:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Sab 	 12:00 - 13:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Sab 	 14:00 - 15:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Settima 16
+Lun 	 9:00 - 10:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Lun 	 10:00 - 11:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Lun 	 11:00 - 12:00 	 Semiologia e multimedialita 
+						 Docente: santangelo
+
+Lun 	 12:00 - 13:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Lun 	 14:00 - 15:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Lun 	 15:00 - 16:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Lun 	 17:00 - 18:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Lun 	 18:00 - 19:00 	 Semiologia e multimedialita 
+						 Docente: santangelo
+
+Mar 	 9:00 - 10:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Mar 	 10:00 - 11:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Mar 	 11:00 - 12:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Mar 	 12:00 - 13:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Mar 	 14:00 - 15:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Mar 	 15:00 - 16:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Mar 	 17:00 - 18:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Mar 	 18:00 - 19:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Mer 	 9:00 - 10:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Mer 	 10:00 - 11:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Mer 	 11:00 - 12:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Mer 	 12:00 - 13:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Mer 	 14:00 - 15:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Mer 	 15:00 - 16:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Mer 	 17:00 - 18:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Mer 	 18:00 - 19:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Gio 	 9:00 - 10:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Gio 	 10:00 - 11:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Gio 	 11:00 - 12:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Gio 	 12:00 - 13:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Gio 	 14:00 - 15:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Gio 	 15:00 - 16:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Gio 	 17:00 - 18:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Gio 	 18:00 - 19:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Ven 	 9:00 - 10:00 	 La gestione delle risorse umane 
+						 Docente: lombardo
+
+Ven 	 10:00 - 11:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Ven 	 11:00 - 12:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Ven 	 14:00 - 15:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Ven 	 15:00 - 16:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Ven 	 17:00 - 18:00 	 Ambienti di sviluppo e linguaggi client side per il web 
+						 Docente: micalizio
+
+Ven 	 18:00 - 19:00 	 La gestione delle risorse umane 
+						 Docente: lombardo
+
+Sab 	 11:00 - 12:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Sab 	 12:00 - 13:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Settima 17
+Ven 	 9:00 - 10:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Ven 	 10:00 - 11:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Ven 	 11:00 - 12:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Ven 	 12:00 - 13:00 	 Semiologia e multimedialita 
+						 Docente: santangelo
+
+Ven 	 14:00 - 15:00 	 Semiologia e multimedialita 
+						 Docente: santangelo
+
+Ven 	 15:00 - 16:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Ven 	 17:00 - 18:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Ven 	 18:00 - 19:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Sab 	 9:00 - 10:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Sab 	 10:00 - 11:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Sab 	 11:00 - 12:00 	 La gestione delle risorse umane 
+						 Docente: lombardo
+
+Sab 	 12:00 - 13:00 	 Acquisizione ed elaborazione di immagini statiche grafica 
+						 Docente: zanchetta
+
+Sab 	 14:00 - 15:00 	 La gestione delle risorse umane 
+						 Docente: lombardo
+
+Settima 18
+Ven 	 9:00 - 10:00 	 La gestione delle risorse umane 
+						 Docente: lombardo
+
+Ven 	 10:00 - 11:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Ven 	 11:00 - 12:00 	 Risorse digitali per il progetto collaborazione e documentazione 
+						 Docente: boniolo
+
+Ven 	 12:00 - 13:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Ven 	 14:00 - 15:00 	 Risorse digitali per il progetto collaborazione e documentazione 
+						 Docente: boniolo
+
+Ven 	 15:00 - 16:00 	 La gestione delle risorse umane 
+						 Docente: lombardo
+
+Ven 	 17:00 - 18:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Ven 	 18:00 - 19:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Sab 	 9:00 - 10:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Sab 	 10:00 - 11:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Sab 	 11:00 - 12:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Sab 	 12:00 - 13:00 	 Strumenti e metodi di interazione nei social media 
+						 Docente: giordani
+
+Sab 	 14:00 - 15:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Settima 19
+Ven 	 9:00 - 10:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Ven 	 10:00 - 11:00 	 Risorse digitali per il progetto collaborazione e documentazione 
+						 Docente: boniolo
+
+Ven 	 11:00 - 12:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Ven 	 12:00 - 13:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Ven 	 14:00 - 15:00 	 Risorse digitali per il progetto collaborazione e documentazione 
+						 Docente: boniolo
+
+Ven 	 15:00 - 16:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Ven 	 17:00 - 18:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Ven 	 18:00 - 19:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Sab 	 10:00 - 11:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Sab 	 11:00 - 12:00 	 Semiologia e multimedialita 
+						 Docente: santangelo
+
+Sab 	 12:00 - 13:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Sab 	 14:00 - 15:00 	 Semiologia e multimedialita 
+						 Docente: santangelo
+
+Settima 20
+Ven 	 9:00 - 10:00 	 La gestione delle risorse umane 
+						 Docente: lombardo
+
+Ven 	 10:00 - 11:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Ven 	 11:00 - 12:00 	 Semiologia e multimedialita 
+						 Docente: santangelo
+
+Ven 	 12:00 - 13:00 	 La gestione delle risorse umane 
+						 Docente: lombardo
+
+Ven 	 14:00 - 15:00 	 Semiologia e multimedialita 
+						 Docente: santangelo
+
+Ven 	 15:00 - 16:00 	 Comunicazione pubblicitaria e comunicazione pubblica 
+						 Docente: gabardi
+
+Ven 	 17:00 - 18:00 	 Progettazione grafica e design di interfacce 
+						 Docente: terranova
+
+Ven 	 18:00 - 19:00 	 Progettazione grafica e design di interfacce 
+						 Docente: terranova
+
+Sab 	 9:00 - 10:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile i 
+						 Docente: pozzato
+
+Sab 	 10:00 - 11:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Sab 	 11:00 - 12:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Sab 	 12:00 - 13:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile i 
+						 Docente: pozzato
+
+Sab 	 14:00 - 15:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile i 
+						 Docente: pozzato
+
+Settima 21
+Ven 	 9:00 - 10:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile i 
+						 Docente: pozzato
+
+Ven 	 10:00 - 11:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Ven 	 12:00 - 13:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile i 
+						 Docente: pozzato
+
+Ven 	 14:00 - 15:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Ven 	 15:00 - 16:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Ven 	 17:00 - 18:00 	 Progettazione grafica e design di interfacce 
+						 Docente: terranova
+
+Ven 	 18:00 - 19:00 	 Progettazione grafica e design di interfacce 
+						 Docente: terranova
+
+Sab 	 9:00 - 10:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Sab 	 11:00 - 12:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Sab 	 12:00 - 13:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Sab 	 14:00 - 15:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Settima 22
+Ven 	 9:00 - 10:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Ven 	 10:00 - 11:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Ven 	 11:00 - 12:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Ven 	 12:00 - 13:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Ven 	 14:00 - 15:00 	 Acquisizione ed elaborazione di sequenze di immagini digitali 
+						 Docente: ghidelli
+
+Ven 	 15:00 - 16:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Ven 	 18:00 - 19:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Sab 	 9:00 - 10:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile i 
+						 Docente: pozzato
+
+Sab 	 10:00 - 11:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile i 
+						 Docente: pozzato
+
+Sab 	 11:00 - 12:00 	 La gestione delle risorse umane 
+						 Docente: lombardo
+
+Sab 	 12:00 - 13:00 	 La gestione delle risorse umane 
+						 Docente: lombardo
+
+Sab 	 14:00 - 15:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile i 
+						 Docente: pozzato
+
+Settima 23
+Ven 	 9:00 - 10:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile i 
+						 Docente: pozzato
+
+Ven 	 10:00 - 11:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile i 
+						 Docente: pozzato
+
+Ven 	 11:00 - 12:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile ii 
+						 Docente: schifanella
+
+Ven 	 12:00 - 13:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Ven 	 14:00 - 15:00 	 Progettazione grafica e design di interfacce 
+						 Docente: terranova
+
+Ven 	 15:00 - 16:00 	 Progettazione grafica e design di interfacce 
+						 Docente: terranova
+
+Ven 	 17:00 - 18:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile ii 
+						 Docente: schifanella
+
+Ven 	 18:00 - 19:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Sab 	 9:00 - 10:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Sab 	 10:00 - 11:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Sab 	 11:00 - 12:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Sab 	 12:00 - 13:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Sab 	 14:00 - 15:00 	 Tecnologie server side per il web 
+						 Docente: damiano
+
+Settima 24
+Ven 	 9:00 - 10:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Ven 	 10:00 - 11:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile ii 
+						 Docente: schifanella
+
+Ven 	 11:00 - 12:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile ii 
+						 Docente: schifanella
+
+Ven 	 12:00 - 13:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile ii 
+						 Docente: schifanella
+
+Ven 	 15:00 - 16:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Ven 	 17:00 - 18:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile ii 
+						 Docente: schifanella
+
+Ven 	 18:00 - 19:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Sab 	 9:00 - 10:00 	 Progettazione grafica e design di interfacce 
+						 Docente: terranova
+
+Sab 	 10:00 - 11:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Sab 	 11:00 - 12:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Sab 	 12:00 - 13:00 	 Progettazione grafica e design di interfacce 
+						 Docente: terranova
+
+Sab 	 14:00 - 15:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Settima 25
+Ven 	 9:00 - 10:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Ven 	 10:00 - 11:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile ii 
+						 Docente: schifanella
+
+Ven 	 11:00 - 12:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile ii 
+						 Docente: schifanella
+
+Ven 	 12:00 - 13:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Ven 	 14:00 - 15:00 	 Progettazione grafica e design di interfacce 
+						 Docente: terranova
+
+Ven 	 15:00 - 16:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Ven 	 17:00 - 18:00 	 Progettazione grafica e design di interfacce 
+						 Docente: terranova
+
+Ven 	 18:00 - 19:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Sab 	 9:00 - 10:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile ii 
+						 Docente: schifanella
+
+Sab 	 10:00 - 11:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Sab 	 11:00 - 12:00 	 Grafica 3d 
+						 Docente: gribaudo
+
+Sab 	 12:00 - 13:00 	 Progettazione e sviluppo di applicazioni web su dispositivi mobile ii 
+						 Docente: schifanella
+
+Sab 	 14:00 - 15:00 	 Grafica 3d 
+						 Docente: gribaudo
+
