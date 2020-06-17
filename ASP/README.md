@@ -7,7 +7,7 @@ insegnamenti da collocare sono i seguenti, accompagnati dal docente titolare e d
 
 
 <p align="center">
-  <img src="img/insegnamenti.png" width="50%" height="50%/>
+  <img src="img/insegnamenti.png" width="60%" height="60%"/>
 </p>
 
 I vincoli rigidi sono i seguenti:
@@ -20,7 +20,7 @@ I vincoli rigidi sono i seguenti:
 - le lezioni dei vari insegnamenti devono rispettare le seguenti propedeuticità, in particolare la prima lezione dell’insegnamento della colonna di destra deve essere successiva all’ultima lezione del corrispondente insegnamento della colonna di destra:
 
 <p align="center">
-  <img src="img/propedeuticita.png" width="50%" height="50%/>
+  <img src="img/propedeuticita.png" width="80%" height="80%"/>
 </p>
 
 I vincoli auspicabili sono i seguenti:
@@ -29,7 +29,7 @@ I vincoli auspicabili sono i seguenti:
 - le lezioni dei vari insegnamenti devono rispettare le seguenti propedeuticità, in particolare la prima lezione dell’insegnamento della colonna di destra deve essere successiva alle prime 4 ore di lezione del corrispondente insegnamento della colonna di sinistra:
 
 <p align="center">
-  <img src="img/propedeuticita_specifica.png" width="50%" height="50%/>
+  <img src="img/propedeuticita_specifica.png" width="80%" height="80%"/>
 </p>
 
 Oltre all’implementazione degli esercizi è necessario predisporre una relazione che contenga la descrizione delle implementazioni realizzate, mettendo in evidenza le scelte di progetto più significative. Si richiede anche di descrivere le prove che sono state fatte, e gli aspetti positivi e negativi delle tecniche utilizzate, oltre ad una analisi dei risultati sperimentali ottenuti.
