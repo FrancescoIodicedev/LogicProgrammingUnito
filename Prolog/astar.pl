@@ -1,26 +1,45 @@
 :- [azioni].
 :- [costi].
+%:- [labirinto].
 %:- [labirinto20].
 %:- [labirinto_noexit].
-%:- [labirinto].
-%:- [labirinto_2exit].
-:- [labirinto_50_4exit].
-%:- [labirinto_50].
 %:- [labirinto_ostacolato].
+%:- [labirinto_2exit].
+:- [labirinto_50].
+%:- [labirinto_50_4exit].
 
 cls :- write('\e[H\e[2J').
 
+multi :-
+    findall(P, finaleM(P), Finali),
+    multi_aux(Finali).
+
+multi_aux([]).
+
+multi_aux([Finale | _]) :-
+    assert(finale(Finale)),
+    write('Uso il finale: '), write(Finale), write('\n'),
+    start.
+
+multi_aux([_ | AltriFinali]) :-
+    retractall(finale(_)),
+    write('Finale non raggiungibile, skippo\n'),
+    multi_aux(AltriFinali).
+
+
 start :-
-    statistics(walltime, [TimeSinceStart | [_]]),
+    statistics(walltime, [_ | [_]]),
     astar,
-    statistics(walltime, [NewTimeSinceStart | [ExecutionTime]]),
+    statistics(walltime, [_ | [ExecutionTime]]),
     write('Execution took '), write(ExecutionTime), write(' ms.'), nl.
 
 astar():-
   iniziale(S),
   f(S, 0, HStart, FStart),
   astar_aux(FStart-node(S, [], 0, HStart), [FStart-node(S, [], 0, HStart)], [], Res),
-  write('Risultato: '), write(Res), write('\n').
+  write('Risultato: '), write(Res), write('\n'),
+  length(Res, D),
+  write('Depth='), write(D), write('\n').
 
 astar_aux(_-node(N, ActionsToE, _, _), _, _, ActionsToE) :- 
     finale(N),
