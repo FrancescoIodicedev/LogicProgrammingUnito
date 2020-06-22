@@ -30,6 +30,9 @@ applicabile(sud, pos(Riga, Colonna)) :-
     \+ occupata(pos(RigaSotto, Colonna)).
 
 % trasforma(Az,Stato,NuovoStato)
+trasforma(pos(R, C), Az, Ris) :-
+    trasforma(Az, pos(R,C), Ris).
+
 trasforma(est, pos(Riga, Colonna), pos(Riga, ColonnaADestra)) :-
     ColonnaADestra is Colonna+1.
 
